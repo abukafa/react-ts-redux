@@ -1,0 +1,89 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "name": "Gadget",
+      "active": true,
+      "created_user": "ADMINISTRATOR",
+      "created_date": "2023-02-01 05:32:00",
+      "updated_user": "ADMINISTRATOR",
+      "updated_date": "2023-02-01 05:32:00"
+    },
+    {
+      "id": 2,
+      "name": "Accessories",
+      "active": true,
+      "created_user": "ADMINISTRATOR",
+      "created_date": "2023-02-01 05:32:00",
+      "updated_user": "ADMINISTRATOR",
+      "updated_date": "2023-02-01 05:32:00"
+    },
+    {
+      "id": 3,
+      "name": "Fashion",
+      "active": true,
+      "created_user": "ADMINISTRATOR",
+      "created_date": "2023-02-01 05:32:00",
+      "updated_user": "ADMINISTRATOR",
+      "updated_date": "2023-02-01 05:32:00"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "plu": "PLU097567",
+      "name": "Macbook",
+      "category_id": 1,
+      "active": true,
+      "created_user": "ADMINISTRATOR",
+      "created_date": "2023-02-01 05:32:00",
+      "updated_user": "ADMINISTRATOR",
+      "updated_date": "2023-02-01 05:32:00"
+    },
+    {
+      "id": 2
+    },
+    {
+      "id": 3
+    },
+    {
+      "id": 4
+    },
+    {
+      "id": 5
+    }
+  ],
+  "variants": [
+    {
+      "id": 1,
+      "product_id": 1,
+      "code": "VAR087232",
+      "name": "Macbook Pro Limitted Edition",
+      "image_location": "png",
+      "qty": 150,
+      "price": 12500000,
+      "active": true,
+      "created_user": "ADMINISTRATOR",
+      "created_date": "2023-02-01 05:32:00",
+      "updated_user": "ADMINISTRATOR",
+      "updated_date": "2023-02-01 05:32:00"
+    },
+    {
+      "id": 2,
+      "product_id": 1,
+      "code": "VAR087233",
+      "name": "Macbook Air Slim Edition",
+      "image_location": "png",
+      "qty": 150,
+      "price": 12500000,
+      "active": true,
+      "created_user": "ADMINISTRATOR",
+      "created_date": "2023-02-01 05:32:00",
+      "updated_user": "ADMINISTRATOR",
+      "updated_date": "2023-02-01 05:32:00"
+    },
+    {
+      "id": 5
+    }
+  ]
+}
